@@ -1,0 +1,1 @@
+docker run -ti -v $PWD:/42PROJECT  tester42_env:0.1
